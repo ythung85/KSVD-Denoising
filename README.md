@@ -1,3 +1,5 @@
 # KSVD-Denoising
 
 In this report we are going to introduce and evaluate few applications related to sparse representation of signals specifically in context of images.Sparse representation of data has been an active area of research recently in both signal processing and machine learning. It has wide application ranging from classification, compressed sensing, image compression, noise filtering, image in-painting etc. Any signals/Data can be represented as sparse a linear combination of basis of given over-complete dictionaries also known as a code-book. This procedure of converting measurements into sparse representation consists of two parts one is sparse coding of a signal from a given dictionary, also known as pursuit algorithms. The second part is designing a dictionary which could be trained for a given set of data, or could be chosen from pre-specified linear transformations.Our Main motivation in this report is to evaluate different pursuit algorithms and dictionary designing mechanism.
+
+Training dataset:
